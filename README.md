@@ -28,7 +28,7 @@
 <br />
 <div align="center">
   <a href="https://sharetaste.io">
-    <img src="public/img/ramen-logo.svg" alt="Logo" width="240" height="240">
+    <img src="public/img/logo.svg" alt="Logo" width="240" height="240">
   </a>
 
   <p align="center">
