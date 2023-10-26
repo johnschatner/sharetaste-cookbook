@@ -28,8 +28,11 @@
 <br />
 <div align="center">
   <a href="https://sharetaste.io">
-    <img src="public/img/logo.svg" alt="Logo" width="240" height="240">
+    <img src="public/img/logomark.svg" style="stroke: black" alt="Logo" height="48">
   </a>
+ 
+  <br />
+  <br />
 
   <p align="center">
     Your Friendly Kitchen Companion: Dive Into a World of Recipes with Auto-Quantities, Adaptive Imagery, and a Treasure Trove of Fresh Features!
@@ -81,7 +84,7 @@ Embark on a culinary journey like no other with our intuitive recipe platform. U
 ### Built With
 
 - [React](https://reactjs.org/)
-- [Firebase](https://firebase.google.com/)
+- [Appwrite](https://appwrite.io/)
 - [Vite](https://vitejs.dev/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -127,15 +130,19 @@ See the [open issues](https://github.com/johnschatner/sharetaste/issues) for a f
 
 ## Screenshots
 
-<img src="public/img/github-project-images/project-screen-2-rev2.png" alt="Product screenshot 2">
-<img src="public/img/github-project-images/project-screen-3-rev2.png" alt="Product screenshot 3">
-<img src="public/img/github-project-images/project-screen-4-rev2.png" alt="Product screenshot 4">
-<img src="public/img/github-project-images/project-screen-5-rev2.png" alt="Product screenshot 5">
-<img src="public/img/github-project-images/project-screen-6-rev2.png" alt="Product screenshot 6">
-<img src="public/img/github-project-images/project-screen-7-rev2.png" alt="Product screenshot 7">
-<img src="public/img/github-project-images/project-screen-8-rev2.png" alt="Product screenshot 8">
-<img src="public/img/github-project-images/project-screen-9-rev2.png" alt="Product screenshot 9">
-<img src="public/img/github-project-images/project-screen-10-rev2.png" alt="Product screenshot 10">
+<img src="public/img/github-project-images/ps-landing.webp" alt="Product screenshot 2">
+<img src="public/img/github-project-images/ps-cookbook.webp" alt="Product screenshot 3">
+<img src="public/img/github-project-images/ps-recipe-1.webp" alt="Product screenshot 4">
+<img src="public/img/github-project-images/ps-recipe-2.webp" alt="Product screenshot 5">
+<img src="public/img/github-project-images/ps-search.webp" alt="Product screenshot 6">
+<img src="public/img/github-project-images/ps-add-1.webp" alt="Product screenshot 7">
+<img src="public/img/github-project-images/ps-add-2.webp" alt="Product screenshot 8">
+<img src="public/img/github-project-images/ps-edit.webp" alt="Product screenshot 9">
+<img src="public/img/github-project-images/ps-login.webp" alt="Product screenshot 10">
+<img src="public/img/github-project-images/ps-cookbook-2.webp" alt="Product screenshot 11">
+<img src="public/img/github-project-images/ps-planner.webp" alt="Product screenshot 12">
+<img src="public/img/github-project-images/ps-not-found.webp" alt="Product screenshot 13">
+<img src="public/img/github-project-images/ps-private.webp" alt="Product screenshot 14">
 
 <!-- CONTACT -->
 
@@ -174,7 +181,7 @@ All rights of the owner are reserved. Unauthorized use of this project in any fo
 [license-url]: https://github.com/johnschatner/sharetaste/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/isac-rasmusson-99344924b
-[product-screenshot]: public/project-showcase.webp
+[product-screenshot]: public/img/auth/login.webp
 [next.js]: https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white
 [next-url]: https://nextjs.org/
 [react.js]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
