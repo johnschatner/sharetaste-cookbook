@@ -30,7 +30,7 @@
 <br />
 <div align="center">
   <a href="https://sharetaste.io">
-    <img src="public/img/logomark-w-bg.svg" style="stroke: black" alt="Logo" height="78">
+    <img src="public/img/logomark-w-bg.svg" style="stroke: black" alt="Logo" height="140">
   </a>
  
   <br />
