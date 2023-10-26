@@ -181,7 +181,7 @@ All rights of the owner are reserved. Unauthorized use of this project in any fo
 [license-url]: https://github.com/johnschatner/sharetaste/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/isac-rasmusson-99344924b
-[product-screenshot]: public/img/auth/login.webp
+[product-screenshot]: public/img/auth/login1.webp
 [next.js]: https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white
 [next-url]: https://nextjs.org/
 [react.js]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
