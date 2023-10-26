@@ -26,6 +26,8 @@
 
 <!-- PROJECT LOGO -->
 <br />
+<br />
+<br />
 <div align="center">
   <a href="https://sharetaste.io">
     <img src="public/img/logomark.svg" style="stroke: black" alt="Logo" height="48">
